@@ -1,6 +1,6 @@
 # SalesPOS
 
-A simple Excel POS system for micro business or associations (please note that this tool is not certified).
+A simple Excel POS VBA tool for micro business or associations (please note that this tool is not certified).
 I did it for a micro business which needed a POS system for sales and stock management.
 I know Excel is not a very professional solution but I think it is the fastest and easiest way to use such tools.
 
