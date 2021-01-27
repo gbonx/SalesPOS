@@ -15,4 +15,4 @@ I have set some protections on all cells which should not be changed manually (c
 
 I am french so my english may not be perfect, sorry for that.
 
-Hoping this tool will be usefull to you :) 
+Hoping this tool will be helpfull to you :) 
